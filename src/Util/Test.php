@@ -45,7 +45,7 @@ use PHPUnit\Framework\SelfDescribing;
 use PHPUnit\Framework\TestCase;
 use PHPUnit\Framework\Warning;
 use PHPUnit\Runner\Version;
-use PHPUnit\Util\Annotation\Registry;
+use PHPUnit\Util\Metadata\Annotation\Registry;
 use ReflectionClass;
 use ReflectionException;
 use ReflectionMethod;
